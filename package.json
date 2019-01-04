@@ -5,13 +5,18 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-scripts": "2.1.2",
+    "youtube-api-search": "0.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "npm": "6.4.1",
+    "node": "10.15.0"
   },
   "eslintConfig": {
     "extends": "react-app"
